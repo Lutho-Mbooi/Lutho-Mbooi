@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lutho-Mbooi
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Mathematics and Informatics...
+- 🌱 I’m currently learning Computer Science and Informatics...
 - 💞️ I’m looking to collaborate on Software/ Game Development projects
 - 📫 How to reach me lutholwethumbooi@gmail.com
 
